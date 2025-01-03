@@ -7,4 +7,5 @@ q= 7
 b= 89
 print('I am using new app. Updared 14:45')
 
-g = 99
+print('I wan to make a change to code at 15:11 by Avaz')
+print('Is is not empty yet')
