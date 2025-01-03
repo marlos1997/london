@@ -5,4 +5,6 @@ print('This is the end of code.')
 
 q= 7
 b= 89
-c=q+b
+print('I am using new app. Updared 14:45')
+
+g = 99
